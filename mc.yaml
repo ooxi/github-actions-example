@@ -1,0 +1,5 @@
+---
+base: fedora:32
+install:
+ - cowsay
+---
